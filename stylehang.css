@@ -38,7 +38,7 @@ transition {
   }
   
   body {
-    background:thistle;
+    background:orange;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     color:white;
     height:100%;
@@ -93,13 +93,13 @@ transition {
     height:30px;
     padding-top:10px;
     background:white;
-    color:thistle;
+    color:orange;
     cursor:pointer;
     border: solid 1px white;
   }
       
       #alphabet :hover {
-        background:thistle;
+        background:orange;
         border: solid 1px white;
         color:white;
       }
@@ -136,7 +136,7 @@ transition {
   }
   
   button{
-    background:thistle;
+    background:orange;
     color:white;
     border: solid 1px white;
     text-decoration:none;
@@ -151,10 +151,10 @@ transition {
       button :hover{
         background:white;
         border: solid 1px white;
-        color:thistle;
+        color:orange;
       }
       .btns{
-        background:thistle;
+        background:orange;
         color:white;
         border: solid 1px white;
         text-decoration:none;
@@ -169,7 +169,7 @@ transition {
           .btns :hover{
             background:white;
             border: solid 1px white;
-            color:thistle;
+            color:orange;
           }
   
   
